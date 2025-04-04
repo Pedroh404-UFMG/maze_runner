@@ -1,0 +1,9 @@
+Exercício Computacional 1 - Automação em Tempo Real
+
+Alunos:
+Pedro Henrique Silva Lima		2022061459
+Victória Machado Pinto			2022061602
+
+Repositórios:
+https://github.com/Pedroh404-UFMG/maze_runner
+https://github.com/Victoriamachado21/maze_runner
